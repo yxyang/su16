@@ -196,15 +196,15 @@
                 {
                     "number": "9",
                     "skipped": false,
-                    "link": "null"
+                    "link": null
                 }, {
                     "number": "10",
                     "skipped": true,
-                    "link": "null"
+                    "link": null
                 }, {
                     "number": "11",
                     "skipped": true,
-                    "link": "null"
+                    "link": null
                 }, {
                     "number": "12",
                     "skipped": true,
