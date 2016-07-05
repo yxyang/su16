@@ -135,7 +135,7 @@
                     "part": "d",
                     "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }
             ],
 
