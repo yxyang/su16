@@ -25,7 +25,7 @@
             "homework": {
                 "skipped": false,
                 "problem": true,
-                "solution": false,
+                "solution": true,
                 "due_date": "2016/06/23"
             },
 
