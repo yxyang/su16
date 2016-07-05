@@ -159,6 +159,60 @@
                 }
             ]
         }
+        {
+            "week": 3,
+            "display": true,
+            "homework": {
+                "skipped": false,
+                "problem": false,
+                "solution": false,
+                "due_date": "2016/07/05"
+            },
+
+            "discussions": [
+                {
+                    "part": "a",
+                    "skipped": true,
+                    "prob": false,
+                    "sol": false
+                }, {
+                    "part": "b",
+                    "skipped": true,
+                    "prob": false,
+                    "sol": false
+                }, {
+                    "part": "c",
+                    "skipped": true,
+                    "prob": false,
+                    "sol": false
+                }, {
+                    "part": "d",
+                    "skipped": true,
+                    "prob": false,
+                    "sol": false
+                }
+            ],
+
+            "lectures": [
+                {
+                    "number": "9",
+                    "skipped": false,
+                    "link": "null"
+                }, {
+                    "number": "10",
+                    "skipped": true,
+                    "link": "null"
+                }, {
+                    "number": "11",
+                    "skipped": true,
+                    "link": "null"
+                }, {
+                    "number": "12",
+                    "skipped": true,
+                    "link": null
+                }
+            ]
+        }
     ],
 
     "other": [
