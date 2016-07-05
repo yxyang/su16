@@ -163,7 +163,7 @@
             "display": true,
             "homework": {
                 "skipped": false,
-                "problem": false,
+                "problem": true,
                 "solution": false,
                 "due_date": "2016/07/05"
             },
