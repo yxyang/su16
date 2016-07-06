@@ -176,13 +176,13 @@
                     "sol": false
                 }, {
                     "part": "b",
-                    "skipped": true,
-                    "prob": false,
-                    "sol": false
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
                 }, {
                     "part": "c",
-                    "skipped": true,
-                    "prob": false,
+                    "skipped": false,
+                    "prob": true,
                     "sol": false
                 }, {
                     "part": "d",
