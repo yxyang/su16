@@ -3,4 +3,4 @@ _site
 .jekyll-metadata
 *.aux
 *.tex~
-*.DS_Store
+*/.DS_Store
