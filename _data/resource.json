@@ -3,8 +3,8 @@
         {
             "name": "Midterm 1",
             "time": "July 8, 11:30-13:30",
-            "exam_file": "static/su16/exams/mt1.pdf",
-            "exam_sol": "static/su16/exams/mt1-sol.pdf"
+            "exam_file": "mt1",
+            "exam_sol": "mt1-sol"
         }, {
             "name": "Midterm 2",
             "time": "July 29, 11:30-13:30",
