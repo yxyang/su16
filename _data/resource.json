@@ -248,7 +248,7 @@
             "lectures": [
                 {
                     "number": "13",
-                    "skipped": true,
+                    "skipped": false,
                     "link": null
                 }, {
                     "number": "14",
