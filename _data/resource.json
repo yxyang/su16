@@ -225,22 +225,22 @@
                 {
                     "part": "a",
                     "skipped": true,
-                    "prob": false,
-                    "sol": false
+                    "prob": true,
+                    "sol": true
                 }, {
                     "part": "b",
                     "skipped": true,
-                    "prob": false,
+                    "prob": true,
                     "sol": false
                 }, {
                     "part": "c",
                     "skipped": true,
-                    "prob": false,
+                    "prob": true,
                     "sol": false
                 }, {
                     "part": "d",
                     "skipped": true,
-                    "prob": false,
+                    "prob": true,
                     "sol": false
                 }
             ],
