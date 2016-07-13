@@ -224,14 +224,14 @@
             "discussions": [
                 {
                     "part": "a",
-                    "skipped": true,
+                    "skipped": false,
                     "prob": true,
                     "sol": true
                 }, {
                     "part": "b",
-                    "skipped": true,
+                    "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }, {
                     "part": "c",
                     "skipped": true,
