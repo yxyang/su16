@@ -234,14 +234,14 @@
                     "sol": true
                 }, {
                     "part": "c",
-                    "skipped": true,
+                    "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }, {
                     "part": "d",
-                    "skipped": true,
+                    "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }
             ],
 
