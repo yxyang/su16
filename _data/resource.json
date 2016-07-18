@@ -268,7 +268,7 @@
             "week": 5,
             "display": true,
             "homework": {
-                "skipped": true,
+                "skipped": false,
                 "problem": true,
                 "solution": false,
                 "due_date": "2016/07/25"
