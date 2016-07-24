@@ -289,12 +289,12 @@
                     "part": "c",
                     "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }, {
                     "part": "d",
                     "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }
             ],
 
