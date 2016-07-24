@@ -3,8 +3,8 @@
         {
             "name": "Midterm 1",
             "time": "July 8, 11:30-13:30",
-            "exam_file": null,
-            "exam_sol": null
+            "exam_file": "mt1",
+            "exam_sol": "mt1-sol"
         }, {
             "name": "Midterm 2",
             "time": "July 29, 11:30-13:30",
@@ -25,7 +25,7 @@
             "homework": {
                 "skipped": false,
                 "problem": true,
-                "solution": false,
+                "solution": true,
                 "due_date": "2016/06/23"
             },
 
@@ -58,7 +58,7 @@
             "homework": {
                 "skipped": false,
                 "problem": true,
-                "solution": false,
+                "solution": true,
                 "due_date": "2016/06/27"
             },
 
@@ -111,7 +111,7 @@
             "homework": {
                 "skipped": false,
                 "problem": true,
-                "solution": false,
+                "solution": true,
                 "due_date": "2016/07/05"
             },
 
@@ -120,12 +120,171 @@
                     "part": "a",
                     "skipped": false,
                     "prob": true,
+                    "sol": true
+                }, {
+                    "part": "b",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "c",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "d",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }
+            ],
+
+            "lectures": [
+                {
+                    "number": "5",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=LwXqmtOtv4U&index=5&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }, {
+                    "number": "6",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=O_mL57CH7w4&index=6&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }, {
+                    "number": "7",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=oyhDo2MteLk&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA&index=7"
+                }, {
+                    "number": "8",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=rJHi2iImIF8&index=8&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }
+            ]
+        },{
+            "week": 3,
+            "display": true,
+            "homework": {
+                "skipped": false,
+                "problem": true,
+                "solution": true,
+                "due_date": "2016/07/11"
+            },
+
+            "discussions": [
+                {
+                    "part": "a",
+                    "skipped": true,
+                    "prob": false,
                     "sol": false
                 }, {
                     "part": "b",
                     "skipped": false,
                     "prob": true,
+                    "sol": true
+                }, {
+                    "part": "c",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "d",
+                    "skipped": true,
+                    "prob": false,
                     "sol": false
+                }
+            ],
+
+            "lectures": [
+                {
+                    "number": "9",
+                    "skipped": true,
+                    "link": null
+                }, {
+                    "number": "10",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=qtvuWcPc5R0&index=9&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }, {
+                    "number": "11",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=fFL6rn5vEI8&index=10&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }, {
+                    "number": "12",
+                    "skipped": false,
+                    "link": null
+                }
+            ]
+        },{
+            "week": 4,
+            "display": true,
+            "homework": {
+                "skipped": false,
+                "problem": true,
+                "solution": true,
+                "due_date": "2016/07/18"
+            },
+
+            "discussions": [
+                {
+                    "part": "a",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "b",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "c",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "d",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }
+            ],
+
+            "lectures": [
+                {
+                    "number": "13",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=-l2ndOotXJ4&index=11&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }, {
+                    "number": "14",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=YtkulaC8uDU&index=13&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
+                }, {
+                    "number": "15",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=wheuTgdUtMM&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA&index=14"
+                }, {
+                    "number": "16",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=H7YTB6lV6ks&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA&index=14"
+                }
+            ]
+        },{
+            "week": 5,
+            "display": true,
+            "homework": {
+                "skipped": false,
+                "problem": true,
+                "solution": false,
+                "due_date": "2016/07/25"
+            },
+
+            "discussions": [
+                {
+                    "part": "a",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "b",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": true
                 }, {
                     "part": "c",
                     "skipped": false,
@@ -141,20 +300,20 @@
 
             "lectures": [
                 {
-                    "number": "5",
+                    "number": "17",
                     "skipped": false,
-                    "link": null
+                    "link": "https://www.youtube.com/watch?v=DCP25_PhZjk&index=15&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
                 }, {
-                    "number": "6",
-                    "skipped": true,
-                    "link": null
+                    "number": "18",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=S66fBCN1SRE&index=16&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA"
                 }, {
-                    "number": "7",
-                    "skipped": true,
-                    "link": null
+                    "number": "19",
+                    "skipped": false,
+                    "link": "https://www.youtube.com/watch?v=n5-CvY3r7wY&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA&index=18"
                 }, {
-                    "number": "8",
-                    "skipped": true,
+                    "number": "20",
+                    "skipped": false,
                     "link": null
                 }
             ]
