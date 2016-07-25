@@ -317,6 +317,59 @@
                     "link": null
                 }
             ]
+        },{
+            "week": 6,
+            "display": true,
+            "homework": {
+                "skipped": false,
+                "problem": true,
+                "solution": false,
+                "due_date": "2016/08/01"
+            },
+
+            "discussions": [
+                {
+                    "part": "a",
+                    "skipped": false,
+                    "prob": false,
+                    "sol": false
+                }, {
+                    "part": "b",
+                    "skipped": false,
+                    "prob": false,
+                    "sol": false
+                }, {
+                    "part": "c",
+                    "skipped": false,
+                    "prob": false,
+                    "sol": false
+                }, {
+                    "part": "d",
+                    "skipped": false,
+                    "prob": false,
+                    "sol": false
+                }
+            ],
+
+            "lectures": [
+                {
+                    "number": "21",
+                    "skipped": false,
+                    "link": null
+                }, {
+                    "number": "22",
+                    "skipped": false,
+                    "link": null
+                }, {
+                    "number": "23",
+                    "skipped": false,
+                    "link": null
+                }, {
+                    "number": "24",
+                    "skipped": false,
+                    "link": null
+                }
+            ]
         }
     ],
 
