@@ -331,8 +331,8 @@
                 {
                     "part": "a",
                     "skipped": false,
-                    "prob": false,
-                    "sol": false
+                    "prob": true,
+                    "sol": true
                 }, {
                     "part": "b",
                     "skipped": false,
