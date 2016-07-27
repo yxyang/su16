@@ -331,59 +331,6 @@
                 {
                     "part": "a",
                     "skipped": false,
-                    "prob": false,
-                    "sol": false
-                }, {
-                    "part": "b",
-                    "skipped": false,
-                    "prob": false,
-                    "sol": false
-                }, {
-                    "part": "c",
-                    "skipped": false,
-                    "prob": false,
-                    "sol": false
-                }, {
-                    "part": "d",
-                    "skipped": false,
-                    "prob": false,
-                    "sol": false
-                }
-            ],
-
-            "lectures": [
-                {
-                    "number": "21",
-                    "skipped": false,
-                    "link": "https://www.youtube.com/watch?v=poEOnUiqvvs&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA&index=20"
-                }, {
-                    "number": "22",
-                    "skipped": false,
-                    "link": null
-                }, {
-                    "number": "23",
-                    "skipped": false,
-                    "link": null
-                }, {
-                    "number": "24",
-                    "skipped": false,
-                    "link": null
-                }
-            ]
-        },{
-            "week": 6,
-            "display": true,
-            "homework": {
-                "skipped": false,
-                "problem": true,
-                "solution": false,
-                "due_date": "2016/08/01"
-            },
-
-            "discussions": [
-                {
-                    "part": "a",
-                    "skipped": false,
                     "prob": true,
                     "sol": true
                 }, {
@@ -408,7 +355,7 @@
                 {
                     "number": "21",
                     "skipped": false,
-                    "link": null
+                    "link": "https://www.youtube.com/watch?v=poEOnUiqvvs&list=PLkFD6_40KJIyBCvYH4pllwPXPM5lg2kxA&index=20"
                 }, {
                     "number": "22",
                     "skipped": false,
