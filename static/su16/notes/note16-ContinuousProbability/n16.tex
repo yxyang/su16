@@ -181,6 +181,35 @@ to~$x$; then we have
 Thus, we can interpret $f(x)$ as the ``probability per unit length" in the vicinity
 of~$x$.
 
+It is sometimes advantageous to think in terms of actual probabilities rather than densities.
+In these situations, we use the \emph{cumulative density function}, or CDF.
+
+\begin{definition}[Cumulative distribution]
+A {\em cumulative distribution function} for a real-valued random variable~$X$ with pdf $f(x)$ is defined as a real-valued function $F:\mathbb{R} \rightarrow \mathbb{R}$ such that $F(x) = \Pr[X \le x] = \int_{-\infty}^x f(t) dt$.
+\end{definition}
+
+Immediately from the definition, we get a few properties:
+
+\begin{theorem}
+Suppose $X$ is a real-valued continuous random variable with PDF $f(x)$ and CDF $F(x)$. Then the following properties hold:
+\begin{itemize}
+  \item $f(x) = \frac{d}{dx}F(x)$
+  \item $\lim_{x\rightarrow -\infty} F(x) = 0$
+  \item $\lim_{x\rightarrow \infty} F(x) = 1$
+  \item $\Pr[X \in (a,b]] = F(b) - F(a)$
+\end{itemize}
+\end{theorem}
+
+Notice that the CDF fully determines the PDF and vice versa. Either one is fully sufficient to fully describe the distribution.
+
+Figure \ref{fig:cdfpdf} denotes the relation between CDF and PDF. Notice that CDF denotes the area under the PDF to the left of a certain point.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.8\textwidth]{cdfpdf.png}
+\caption{CDF and PDF}
+\label{fig:cdfpdf}
+\end{figure}
 
 \subsection*{Expectation and Variance}
 
@@ -329,7 +358,13 @@ plot of the density function for the exponential distribution with $\lambda = 2$
 \label{fig:exponential}
 \end{figure}
 
-Let us now compute its expectation and variance.
+It is also straightforward to compute the CDF of an exponential random variable:
+
+For $x < 0$, it is obvious that $F(x) = 0$, since the PDF is zero over that entire region.
+
+For $x \ge 0$, the CDF is given by $$F(x) = \int_{-\infty}^{x} f(t) dt = \int_{0}^{x} \lambda e^{-\lambda x} = 1 - e^{-\lambda x}$$.
+
+Let us now compute the expectation and variance of an exponential random variable.
 
 \begin{theorem}
 Let $X$ be an exponential random variable with parameter~$\lambda > 0$. Then
@@ -422,6 +457,17 @@ Figure~\ref{fig:normal} shows the normal density for several different choices o
 \caption{The density function for the normal distribution with several different choices for $\mu$ and $\sigma$.}
 \label{fig:normal}
 \end{figure}
+
+Finding the CDF of the normal requires us to integrate an expression of the form $e^{-t^2}$, which is impossible to express
+using standard algebraic terms. Integrals of this form come up frequently enough in math and statistics, however, that
+they're described with a particular function, and this function has been well studied (there are tables, mostly computed through numerical integration, of values that this function takes).
+
+\begin{definition}[Error function]
+For all real numbers $x$, the error function $\mbox{erf}(x)$ is defined to be: $$\mbox{erf}(x) = \frac{2}{\pi} \int_0^x e^{-t^2} dt~~.$$.
+\end{definition}
+
+Given this function, it is easy to verify that the CDF of the normal distribution is: $$F(x) = \frac{1}{2} \left( 1 + \mbox{erf} \left( \frac{x-\mu}{\sigma \sqrt{2}} \right) \right)~~.$$
+
 
 The figure above shows that the normal density with different values of $\mu$ and $\sigma$ are very similar to each other.
 Indeed, the normal distribution has the following nice property with respect to shifting and rescaling.
