@@ -8,7 +8,7 @@
         }, {
             "name": "Midterm 2",
             "time": "July 29, 11:30-13:30",
-            "exam_file": null,
+            "exam_file": "mt2",
             "exam_sol": null
         }, {
             "name": "Final",
