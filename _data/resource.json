@@ -416,7 +416,7 @@
                     "link": null
                 }, {
                     "number": "27",
-                    "skipped": true,
+                    "skipped": false,
                     "link": null
                 }, {
                     "number": "28",
