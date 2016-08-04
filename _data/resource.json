@@ -390,8 +390,8 @@
                 }, {
                     "part": "b",
                     "skipped": false,
-                    "prob": false,
-                    "sol": false
+                    "prob": true,
+                    "sol": true
                 }, {
                     "part": "c",
                     "skipped": false,
