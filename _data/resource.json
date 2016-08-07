@@ -395,13 +395,13 @@
                 }, {
                     "part": "c",
                     "skipped": false,
-                    "prob": false,
-                    "sol": false
+                    "prob": true,
+                    "sol": true
                 }, {
                     "part": "d",
                     "skipped": false,
-                    "prob": false,
-                    "sol": false
+                    "prob": true,
+                    "sol": true
                 }
             ],
 
