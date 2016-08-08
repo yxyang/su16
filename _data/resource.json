@@ -424,6 +424,60 @@
                     "link": null
                 }
             ]
+        },
+        {
+            "week": 8,
+            "display": true,
+            "homework": {
+                "skipped": true,
+                "problem": false,
+                "solution": false,
+                "due_date": null
+            },
+
+            "discussions": [
+                {
+                    "part": "a",
+                    "skipped": false,
+                    "prob": true,
+                    "sol": false
+                }, {
+                    "part": "b",
+                    "skipped": true,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "c",
+                    "skipped": true,
+                    "prob": true,
+                    "sol": true
+                }, {
+                    "part": "d",
+                    "skipped": true,
+                    "prob": true,
+                    "sol": true
+                }
+            ],
+
+            "lectures": [
+                {
+                    "number": "29",
+                    "skipped": false,
+                    "link": null
+                }, {
+                    "number": "30",
+                    "skipped": true,
+                    "link": null
+                }, {
+                    "number": "31",
+                    "skipped": true,
+                    "link": null
+                }, {
+                    "number": "32",
+                    "skipped": true,
+                    "link": null
+                }
+            ]
         }
     ],
 
