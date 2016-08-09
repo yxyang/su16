@@ -440,7 +440,7 @@
                     "part": "a",
                     "skipped": false,
                     "prob": true,
-                    "sol": false
+                    "sol": true
                 }, {
                     "part": "b",
                     "skipped": true,
