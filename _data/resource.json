@@ -13,8 +13,8 @@
         }, {
             "name": "Final",
             "time": "August 12, 11:30-14:30",
-            "exam_file": null,
-            "exam_sol": null
+            "exam_file": "final",
+            "exam_sol": "final-sol"
         }
     ],
 
