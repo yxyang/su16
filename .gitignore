@@ -4,3 +4,4 @@ _site
 *.aux
 *.tex~
 */.DS_Store
+.idea
